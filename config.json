@@ -1,0 +1,146 @@
+{
+    "1317562987216896090": {
+        "server_name": "Eipp Speeds Tours",
+        "host_role": 1317563982231502848,
+        "player_role": 1317563984244641892,
+        "spectator_role": 1317563987373850715,
+        "eliminated_role": 1317563988996919369,
+        "bot_role": 1317563991530410074,
+        "category_id": 1317564033779503247
+    },
+    "1317607516917731409": {
+        "server_name": "EIPP Sub-540",
+        "host_role": 1323047127299129365,
+        "player_role": 1323047129333239819,
+        "spectator_role": 1323047131279261726,
+        "eliminated_role": 1323047132961443890,
+        "bot_role": 1323047134546886748,
+        "category_id": 1323047173033820295
+    },
+    "1324881810626314312": {
+        "server_name": "EIDT: Everyone is Dragon Type",
+        "host_role": 1324950449077358686,
+        "player_role": 1324950458263142461,
+        "spectator_role": 1324950460318224455,
+        "eliminated_role": 1324950463673663590,
+        "bot_role": 1324950465711964161,
+        "category_id": 1360248744972521695
+    },
+    "1273622823084228710": {
+        "server_name": "Eipp Doubled",
+        "host_role": 1273629599745572894,
+        "bot_role": 1273631215475359755,
+        "player_role": 1273630023017828474,
+        "spectator_role": 1273630142677385389,
+        "category_id": 1273628303047266356,
+        "eliminated_role": 1273630267466055795
+    },
+    "1320538663213600820": {
+        "server_name": "Everyone is a Sparkling Star \u2730 EISS",
+        "host_role": 1332061117681500244,
+        "player_role": 1332070411210457129,
+        "spectator_role": 1332070413165006858,
+        "eliminated_role": 1332070414922289213,
+        "bot_role": 1332070416663187618,
+        "category_id": 1332070458132271104
+    },
+    "1333370386804506675": {
+        "server_name": "Eipp: The Battle Frontier",
+        "host_role": 1333370769526358040,
+        "player_role": 1333370771644612730,
+        "spectator_role": 1333370773552889907,
+        "eliminated_role": 1333370776010752051,
+        "bot_role": 1333370777390813210,
+        "category_id": 1333370815567233107
+    },
+    "1343824833053720648": {
+        "server_name": "Eipp Soup Kitchen",
+        "host_role": 1343825277851140147,
+        "player_role": 1343825280388825178,
+        "spectator_role": 1343825282380992572,
+        "eliminated_role": 1343825284633460746,
+        "bot_role": 1343825286382227546,
+        "category_id": 1343825333950091286
+    },
+    "1330386893245907014": {
+        "server_name": "EiZZ (Everyone is Zoroark Zoroark",
+        "host_role": 1330389448268976259,
+        "player_role": 1330389625315004457,
+        "spectator_role": 1330390513991421993,
+        "eliminated_role": 1330390823539310714,
+        "bot_role": 1330390672359817289,
+        "category_id": 1358854147780382881
+    },
+    "1345154732175654922": {
+        "server_name": "EiGR | Everyone is Galarian Right?",
+        "host_role": 1345162422423519310,
+        "player_role": 1345162424671539303,
+        "spectator_role": 1345162426416496721,
+        "eliminated_role": 1345162427972456562,
+        "bot_role": 1345162430027923466,
+        "category_id": 1345162475204771850
+    },
+    "1352342698182312019": {
+        "server_name": "Sylvieon's Extra Eippus",
+        "host_role": 1352343453673062492,
+        "player_role": 1352343455963025509,
+        "spectator_role": 1352343457674432606,
+        "eliminated_role": 1352343459691761785,
+        "bot_role": 1352343461772263484,
+        "category_id": 1370824730332102727
+    },
+    "1309345023854379008": {
+        "server_name": "OMaPP - Other Metas are Pok\u00e9mon Pok\u00e9mon",
+        "host_role": 1309348950339489852,
+        "eliminated_role": 1309675864224698450,
+        "player_role": 1309662522076434503,
+        "spectator_role": 1323700721605939341,
+        "bot_role": 1309354572879233086,
+        "category_id": 1354655597789970633
+    },
+    "1341549863778652283": {
+        "server_name": "Everyone is Pokemon Pokemon '98",
+        "host_role": 1341556842622615552,
+        "player_role": 1341556647381831760,
+        "eliminated_role": 1341556696450994278,
+        "spectator_role": 1341556744094093322,
+        "category_id": 1341559017054670969,
+        "bot_role": 1355797902374604902
+    },
+    "1359858289197711491": {
+        "server_name": "Test server",
+        "host_role": 1359858734456639630,
+        "player_role": 1359858737094987856,
+        "spectator_role": 1359858738818846730,
+        "eliminated_role": 1359858740144377938,
+        "bot_role": 1359858744162259105,
+        "category_id": 1359858789913722935
+    },
+    "1361450553359601926": {
+        "server_name": "EiSM: Everyone is Showdown Metagames",
+        "host_role": 1361451626048782346,
+        "player_role": 1361451627290165360,
+        "spectator_role": 1361451629513277640,
+        "eliminated_role": 1361451631660765185,
+        "bot_role": 1361451642029084903,
+        "category_id": 1361451690401730601
+    },
+    "1364493294759051334": {
+        "server_name": "EiHEPP",
+        "host_role": 1364495814780522557,
+        "player_role": 1364495816856834058,
+        "spectator_role": 1364495818299670582,
+        "eliminated_role": 1364495820900007987,
+        "bot_role": 1364495823714521088,
+        "category_id": 1364495876977852457
+    },
+    "1374497355986108537": {
+        "server_name": "EiSMT",
+        "host_role": 1374498763590074379,
+        "player_role": 1374498765653672017,
+        "spectator_role": 1374498768157933638,
+        "eliminated_role": 1374498770053496972,
+        "bot_role": 1374498771697799169,
+        "category_id": 1374498809781948520
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "sylvieon": [
+        {
+            "name": "Eipp Doubled",
+            "description": "2 Pokemon per player themed Eippu. We had double battles, we had switching between two Pokemon each turn, and we have more to come! Season 3 is still on the way, coming in a few months.",
+            "link": "https://discord.gg/pD6HukxPvS"
+        },
+        {
+            "name": "Eipp Speed Tours",
+            "description": "This is themed around speed games, where the turns are 30 minutes long and the game ends in 2 days. Season 4 is coming soon, with the twist of equipping type gems on your Pokemon (cannot match your Pokemon's type), which give you access to all moves of that type and with a damage boost.",
+            "link": "https://discord.gg/vnyC7EzqYv"
+        },
+        {
+            "name": "Eipp Soup Kitchen",
+            "description": "This is for Sylvieon to host more non thematic Eipps whenever they come up with random ideas. Season 1 is a chess themed and teams based Eipp, with sign ups open now and closing with team allotments on May 11th, and game starting on May 17th. Hop in to see the details of it.",
+            "link": "https://discord.gg/f3uU9vRGNf"
+        }
+    ],
+    "upcoming": [
+        {
+            "name": "Everyone is Pokemon Pokemon 98 (Eipp98)",
+            "description": "This Eippu follows only mechanics from generation 1 (RBY) games, for all you old fashioned Pokemon fans. Season 1 starts May 25th.",
+            "link": "https://discord.gg/wVS2zmc6wp"
+        },
+        {
+            "name": "EiPPT: Explorers of Tundra",
+            "description": "An Eippu hosted by the goat himself, Sourlich, with a bunch of lore to it. Season 2 is coming soon with the twist of Pokebilities and being able to swap one of your Pokemon's abilities with almost any ability.",
+            "link": "https://discord.gg/RCY5qN5W3V"
+        },
+        {
+            "name": "EiPP UnUnofficial (EiPPUU)",
+            "description": "This is an Eippu with some frankly crazy twists. Struggle only, controling other Pokemon, fakemons, 1pp only, chimera mons. Season 6 features Pokemon being hidden, and attacking players instead. This starts on May 28th.",
+            "link": "https://discord.gg/vMNupy4Zag"
+        },
+        {
+            "name": "Everyone is NOT Gambling Pokemon (EiNGP)",
+            "description": "Since Carl-bot quit after its abusal the last 2 seasons, you can now choose your own rolls. No more stone edge misses!",
+            "link": "https://discord.gg/8BUWm8m9"
+        }
+    ],
+    "ongoing": [
+        {
+            "name": "EIPP Sub-540",
+            "description": "This is an Eippu for specifically lower power level Pokemon under the base stat total of 540, along with extra twists for the season. Season 2 is starting on May 3rd, with a Partners in Crime twist!",
+            "link": "https://discord.gg/jBKuPCxt4Z"
+        }
+    ],
+    "other": [
+        {
+            "name": "EiPP Official",
+            "description": "What the hell, how are you here if you're not in this server? This is LITERALLY the main EiPP server. Get in here NOW.",
+            "link": "https://discord.gg/BE5zk9SvhR"
+        },
+        {
+            "name": "Everyone is Kinda Pokemon Pokemon (EiKPP)",
+            "description": "Historically before Eipp12, EiKPP is renound as the biggest unofficial EippU, basically a mini official game. It's hype, got great twists including Pokemon fusion ones. You don't want to miss out on this.",
+            "link": "https://discord.gg/yJkUB8esfX"
+        },
+        {
+            "name": "Everyone is Quest Pokemon Pokemon (EiQPP)",
+            "description": "Honestly, one of the most fun and chill Eippus, with an alternative take on the game, where rather than aiming to be the final x standing, you complete various unique quests and win through accumulating quest points.",
+            "link": "https://discord.gg/U9QzPA7aeq"
+        },
+        {
+            "name": "MG1 Eipp",
+            "description": "Modern Gen 1? Another gen 1 Eipp? Jeez, originality is dead, what bums. Just kidding, I'm messing with them. Go check them out, for real.",
+            "link": "https://discord.gg/PM9FjWtTFK"
+        },
+        {
+            "name": "Everyone is Elite Redux Pokemon Pokemon (EiERPP)",
+            "description": "Eipp, but with Pokemon, learnsets and mechanics from the ROM hack Pokemon Elite Redux! Everything is broken! And thus, nothing is broken...",
+            "link": "https://discord.gg/FWg2jFX3s5"
+        },
+        {
+            "name": "Other Metas Are Pokemon Pokemon (OMaPP)",
+            "description": "An Eipp that incorporates other metagames. Season 2 is a triple battle teams based Eipp, where you can also substitute KOB slots with learning new moves.",
+            "link": "https://discord.gg/2Z5VZVtZkD"
+        },
+        {
+            "name": "Everyone is Dragon Type (EiDT)",
+            "description": "In this Eippu, everyone's Pokemon gains a bonus typing of choice, but your Pokemon must only be a dragon type either naturally or through bonus type. Megas allowed. Season 1 starting April 15th.",
+            "link": "https://discord.gg/twJyTsQTsc"
+        },
+        {
+            "name": "Everyone is Zoroark Zoroark (EiZZ)",
+            "description": "In this Eippu, everyone's Pokemon will start out disguised as Unown and only be revealed when they are hit first. Only single stage Pokemon are allowed.",
+            "link": "https://discord.gg/vZnPrphw"
+        }
+    ]
+}

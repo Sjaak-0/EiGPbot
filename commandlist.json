@@ -1,0 +1,152 @@
+{
+  "commands": [
+    {
+      "name": "$makeserver",
+      "description": "Generates a full Eipp server template. Deletes all channels. Automatically sets config data (role and categor ids). Server Owner only."
+    },
+    {
+      "name": "$setcategory <id>",
+      "description": "Sets the confessional category by ID. Admins only."
+    },
+    {
+      "name": "$setrole <role> <id>",
+      "description": "Links a role (Host, Player, Spectator, Eliminated, Bot) to a Discord role ID. Admins only."
+    },
+    {
+      "name": "$addrole <name> <#hex>",
+      "description": "Creates a new role with a given name and color. Admins only."
+    },
+    {
+      "name": "$uploademotes",
+      "description": "Uploads attached images as emotes. Name = filename. Hosts only."
+    },
+    {
+      "name": "$deleteallemotes",
+      "description": "Deletes all emotes on the server. Hosts only."
+    },
+    {
+      "name": "$close",
+      "description": "Removes all game roles from everyone to end the game. Hosts only."
+    },
+    {
+      "name": "$confessional <@user>",
+      "description": "Creates a confessional for the mentioned user. Adds player role."
+    },
+    {
+      "name": "$groupconfessional <name> <@users>",
+      "description": "Creates a group confessional with mentioned users. Adds player role."
+    },
+    {
+      "name": "$deleteconfessionals",
+      "description": "Deletes all channels in the confessional category. Confirmation required."
+    },
+    {
+      "name": "$opentospecs",
+      "description": "Grants spectator role access to the current channel."
+    },
+    {
+      "name": "$addspecs",
+      "description": "Adds spectator role to all users without the player role."
+    },
+    {
+      "name": "$playerlist",
+      "description": "Pings all players in random order."
+    },
+    {
+      "name": "$updateplayerlist",
+      "description": "Edits the last sent message by the bot to the current player list. Use this to update previous playerlist messages from $playerlist command. Ensure player list is in a separate channel, and no other messages from the bot are in that channel. It auto deletes its response message for this after 10 seconds."
+    },
+    {
+      "name": "$lock",
+      "description": "Appends a lock emote to the channel name. Only in confessional category."
+    },
+    {
+      "name": "$unlock",
+      "description": "Removes lock emote from the channel name. Only in confessional category."
+    },
+    {
+      "name": "$soup",
+      "description": "The bot says 'Soup Time!'."
+    },
+    {
+      "name": "$edward",
+      "description": "Sends the Edward emote."
+    },
+    {
+      "name": "$test",
+      "description": "Checks if the bot is online."
+    },
+    {
+      "name": "$earthquake",
+      "description": "KO's Saberslasher11 with Earthquake"
+    },
+    {
+      "name": "$IPAddress <@user>",
+      "description": "Displays a totally real 100% not randomized definitely doxxed frfr no cap IP Address of the mentioned user."
+    },
+    {
+      "name": "$soupsweeper <soup bowl count>",
+      "description": "Starts a game of SoupSweeper. Player sets number of soup bowls, between 5-10 only. 10 bowls by default."
+    },
+    {
+      "name": "$whosthatpokemon",
+      "description": "Pokemon name guessing game."
+    },
+    {
+      "name": "$roll <number>",
+      "description": "Rolls a number between 1 and your input."
+    },
+    {
+      "name": "$multihit <max hits> <accuracy> <King's rock (True or False)>",
+      "description": "Rolls for multihit moves' hit count based on accuracy or flinch checks. Used for moves like Population Bomb, Triple Axel, Triple Kick."
+    },
+    {
+      "name": "$eippulist",
+      "description": "View Sylvieon's and friends' Eippus. Multi-page embed with navigation."
+    },
+    {
+      "name": "$addeippu <section> <name> <description> <link>",
+      "description": "Add a new Eippu to the given section (sylvieon, upcoming, ongoing, other). Sylvieon only."
+    },
+    {
+      "name": "$updateeippu <section> <index> <name|description|link> <new_value>",
+      "description": "Update an existing Eippu's field by index in its section. Sylvieon only."
+    },
+    {
+      "name": "$moveeippu <from_section> <index> <to_section>",
+      "description": "Move an Eippu from one section to another. Sylvieon only."
+    },
+    {
+      "name": "$deleteeippu <section> <index>",
+      "description": "Delete an Eippu from a section by index. Sylvieon only."
+    },
+    {
+      "name": "$talkhere <channel_id>",
+      "description": "Makes the bot send a message in the specified channel. Sylvieon only."
+    },
+    {
+      "name": "$addeippbotcommmand <name> <description>",
+      "description": "Adds a command to the command list. Sylvieon only."
+    },
+    {
+      "name": "updateeippbotcommand <name> <description>",
+      "description": "Updates a selected command in the command list. Sylvieon only."
+    },
+    {
+      "name": "deleteeippbotcommand <name>",
+      "description": "Deletes a selected command in the command list. Sylvieon only."
+    },
+    {
+      "name": "$metronome",
+      "description": "Calls a random move Metronome can select."
+    },
+    {
+      "name": "$renameeippu <old name> <new name>",
+      "description": "Renames an Eippu in Eippulist. Sylvieon only."
+    },
+    {
+      "name": "$renameeippbotcommand <old name> <new name>",
+      "description": "Renames a command in commandlist. Sylvieon only."
+    }
+  ]
+}
