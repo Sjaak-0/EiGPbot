@@ -1494,6 +1494,20 @@ async def metronome(ctx):
 
     selected_move = random.choice(moves)
     await ctx.send(f"🎲 **The Pokémon waggles its finger... It uses `{selected_move}`!**")
+    
+@client.command(name="multiskill", help="Calls a random ability Multiskill can select.")
+async def multiskill(ctx):
+    try:
+        with open("multiskill.txt", "r", encoding="utf-8") as file:
+            abilities = [line.strip() for line in file if line.strip()]
+    except FileNotFoundError:
+        return await ctx.send("❌ `multiskill.txt` not found.")
+
+    if not moves:
+        return await ctx.send("❌ No ability found in `multiskill.txt`.")
+
+    selected_ability = random.choice(abilities)
+    await ctx.send(f"🎲 **The Pokémon's ability changes to `{selected_move}`!**")    
 
 @client.command()
 async def voltorbflip(ctx):
